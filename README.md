@@ -10,7 +10,7 @@ To install it :
 
 ### Example ###
 
-```
+```python
 from flask import Flask, request, Response
 from flaskext.apiform import Form, StringField, IntField
 
