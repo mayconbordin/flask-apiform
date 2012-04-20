@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='Flask-APIForm',
-    version='1.2',
+    version='1.0',
     url='https://github.com/mayconbordin/flask-apiform/',
     license='BSD',
     author='Maycon Bordin',
